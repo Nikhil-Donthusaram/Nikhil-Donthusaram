@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dtb6m24nt/image/upload/v1710226352/coding-_iojcxf.png">
 
 
-- 🌱 I’m currently learning full stack development **HTML,CSS,JavaScript,Java,SQL,**
+- 🌱 I’m currently learning Data Analytics **Python,SQL,PowerBI**
 
 - 📫 How to reach me **nikhildonthusaram09@gmail.com**
 
