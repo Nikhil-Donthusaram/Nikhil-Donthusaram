@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nikhildonthusaram09@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pUNwgOAfRm1WQ90-gSqdVUCEPT9ttN6b/view?usp=drive_link](https://drive.google.com/file/d/1pUNwgOAfRm1WQ90-gSqdVUCEPT9ttN6b/view?usp=drive_link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1pUNwgOAfRm1WQ90-gSqdVUCEPT9ttN6b/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
