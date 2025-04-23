@@ -1,7 +1,4 @@
 
-
-
-
 <h1 align="center">
   Hey there 👋, I'm <span style="color:#00BFFF;">Nikhil Donthusaram</span>
 </h1>
@@ -36,33 +33,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
-
----
-
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-Donthusaram&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Donthusaram&layout=compact&theme=dracula&hide_border=true" height="180px"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-- [🍽️ Restaurant Data Analysis](https://github.com/Nikhil-Donthusaram/Data-Analysis-of-Restaurant)  
-  Extracted business insights from 15,000+ restaurants across 50+ cities.
-
-- [📊 Amazon Sales Dashboard](https://github.com/Nikhil-Donthusaram/Amazon-Sales-Dashboard)  
-  Analyzed 38K+ sales records using Power BI and Excel to uncover $2.3M sales.
-
-- [🧠 Text Summarization with Machine Learning](https://github.com/Nikhil-Donthusaram/Text-Summarization-ML)  
-  Built a text summarizer using NLTK and ML models for research articles.
-
----
-
-## 🏆 Certifications
-- 🎖️ **Industry Ready Certification in Data Analytics** from Nxtwave
-- 🎖️ **5⭐ in SQL Basics** on HackerRank
 
 ---
 
