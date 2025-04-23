@@ -1,17 +1,82 @@
-<h1 align="center">Hi 👋, I'm Nikhil Donthusaram</h1>
-<h3 align="center">Data Aspirant</h3>
+import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Github, Linkedin, Globe } from "lucide-react";
 
-- 🌱 I’m currently learning **Data Analytics, Python, SQL, PowerBI**
+export default function Profile() {
+  return (
+    <div className="min-h-screen bg-gray-100 flex flex-col items-center p-8">
+      <div className="max-w-4xl w-full">
+        <Card className="p-6 bg-white shadow-2xl rounded-2xl">
+          <CardContent>
+            <div className="flex flex-col md:flex-row items-center md:items-start gap-6">
+              <img
+                src="https://avatars.githubusercontent.com/u/00000000?v=4"
+                alt="Nikhil Donthusaram"
+                className="w-32 h-32 rounded-full object-cover border-4 border-blue-500"
+              />
+              <div className="flex-1">
+                <h1 className="text-3xl font-bold text-gray-900">Nikhil Donthusaram</h1>
+                <p className="text-gray-600">Aspiring Data Scientist | AI/ML Engineer</p>
+                <div className="flex gap-4 mt-4">
+                  <a href="https://github.com/Nikhil-Donthusaram" target="_blank" rel="noopener noreferrer">
+                    <Button variant="outline" className="flex items-center gap-2">
+                      <Github size={20} /> GitHub
+                    </Button>
+                  </a>
+                  <a href="https://linkedin.com/in/nikhil-donthusaram" target="_blank" rel="noopener noreferrer">
+                    <Button variant="outline" className="flex items-center gap-2">
+                      <Linkedin size={20} /> LinkedIn
+                    </Button>
+                  </a>
+                  <a href="https://zingy-biscotti-2e22d5.netlify.app/" target="_blank" rel="noopener noreferrer">
+                    <Button variant="outline" className="flex items-center gap-2">
+                      <Globe size={20} /> Portfolio
+                    </Button>
+                  </a>
+                </div>
+              </div>
+            </div>
 
-- 📫 How to reach me **nikhildonthusaram09@gmail.com**
+            <div className="mt-8">
+              <h2 className="text-2xl font-semibold mb-4">About Me</h2>
+              <p className="text-gray-700">
+                Strong in Python, SQL, Power BI, and data visualization. Passionate about solving real-world problems using AI and ML.
+                Skilled at machine learning algorithms, EDA, and transforming complex data into actionable insights.
+              </p>
+            </div>
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1FBvaEexXREa1kwUVA9CGHWEPMfcjT4cN/view?usp=drive_link)
+            <div className="mt-8 grid md:grid-cols-2 gap-8">
+              <div>
+                <h2 className="text-xl font-semibold mb-4">Skills</h2>
+                <ul className="list-disc list-inside text-gray-700">
+                  <li>Python, SQL, MySQL, SQLite</li>
+                  <li>Data Analysis, EDA, Machine Learning (Basics)</li>
+                  <li>Power BI, Tableau, Excel, Google Sheets</li>
+                  <li>Git, GitHub, Flask API, HTML, CSS, Bootstrap</li>
+                </ul>
+              </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nikhil-donthusaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-donthusaram" height="30" width="40" /></a>
-</p>
-<img src='https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif' align='right' width=400 >
+              <div>
+                <h2 className="text-xl font-semibold mb-4">Projects</h2>
+                <ul className="list-disc list-inside text-gray-700">
+                  <li><a href="https://github.com/Nikhil-Donthusaram/Data-Analysis-of-Restaurant" className="text-blue-600 hover:underline">Restaurant Data Analysis</a></li>
+                  <li><a href="https://github.com/Nikhil-Donthusaram/Amazon-Sales-Dashboard" className="text-blue-600 hover:underline">Amazon Sales Dashboard</a></li>
+                  <li>Text Summarization using Machine Learning</li>
+                </ul>
+              </div>
+            </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+            <div className="mt-8">
+              <h2 className="text-xl font-semibold mb-4">Certifications</h2>
+              <ul className="list-disc list-inside text-gray-700">
+                <li>Industry Ready Certification in Data Analytics (Nxtwave)</li>
+                <li>5-star rating in SQL Basics on HackerRank</li>
+              </ul>
+            </div>
+          </CardContent>
+        </Card>
+      </div>
+    </div>
+  );
+}
+
