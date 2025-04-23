@@ -1,7 +1,8 @@
-<!-- Banner Image -->
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/Hi1X1xM.gif" width="100%" alt="Welcome Banner">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Welcome Banner">
 </p>
+
 
 <h1 align="center">
   Hey there 👋, I'm <span style="color:#00BFFF;">Nikhil Donthusaram</span>
