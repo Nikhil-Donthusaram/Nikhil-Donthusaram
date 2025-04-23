@@ -19,6 +19,13 @@
 - 🔥 Skilled in **Python**, **SQL**, **Power BI**, **Machine Learning Basics**
 - 🧠 Building exciting projects in **EDA**, **Data Visualization**, and **ML**
 - 🌍 Exploring new technologies everyday to be a **Better Engineer**
+- ## 📄 Resume
+<p align="center">
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=read-the-docs" alt="Resume Badge"/>
+  </a>
+</p>
+
 
 ---
 
