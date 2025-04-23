@@ -21,13 +21,15 @@
 - 🌍 Exploring new technologies everyday to be a **Better Engineer**
 
 ---
-- ## 📄 Resume
+
+ ## 📄 Resume
 <p align="center">
   <a href="https://your-resume-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Resume-orange?style=for-the-badge&logo=read-the-docs" alt="Resume Badge"/>
   </a>
 </p>
 
+---
 
 ## 🚀 Skills & Tools
 
